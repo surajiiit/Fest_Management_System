@@ -23,8 +23,5 @@ Welcome to the **Fest Management System** - a powerful, easy-to-use tool designe
 
 - **Python 3.x**
 - **MySQL Database**
-- **Required Libraries**:
-  ```bash
-
-
+- **Required Libraries**
 
