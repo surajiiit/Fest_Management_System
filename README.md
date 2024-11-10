@@ -3,7 +3,6 @@
 
 Welcome to the **Fest Management System** - a powerful, easy-to-use tool designed to manage events, participants, and schedules for your fest or event. This system combines a visually appealing GUI with a robust backend, ensuring that managing your event becomes a breeze!
 
-![Fest Management System Banner](https://user-images.githubusercontent.com/banner-image-url)
 
 ---
 
